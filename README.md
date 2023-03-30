@@ -24,9 +24,9 @@ Seaborn
 
 ## You can use this code block for importing these libraries
 
-import numpy as np # linear algebra
+import numpy as np #linear algebra
 
-import pandas as pd # data processing
+import pandas as pd #data processing
 
 import matplotlib.pyplot as plt
 
@@ -37,3 +37,5 @@ import seaborn as sns
 kaggle/input/seattle/calendar.csv
 
 kaggle/input/seattle/listings.csv
+
+### You can also read my article on the subject --> https://medium.com/@ayse.dindr/would-you-rather-go-to-seattle-for-the-holidays-39a504d2159d
